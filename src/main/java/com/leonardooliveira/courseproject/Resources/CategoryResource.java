@@ -1,4 +1,4 @@
-package com.leonardooliveira.courseproject.Resources;
+package com.leonardooliveira.courseproject.resources;
 
 import java.util.List;
 
